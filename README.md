@@ -36,9 +36,8 @@ This web application allows users to **buy and sell women’s fashion items** �
 2. **Set up your local web server** (e.g., XAMPP, MAMP) and move the project folder into the `htdocs` (or web root) directory.
 
 3. **Import the database:**
-   - Open **phpMyAdmin**.
-   - Create a new database (e.g., `cozydb`).
-   - Import the included SQL file (e.g., `cozydb.sql`) into your new database.
+   - Open the database file under database folder in HeidiSQL.
+   - Run the SQL Code.
 
 4. **Update configurations:**
    - In your project’s config files, update:
@@ -62,8 +61,6 @@ This web application allows users to **buy and sell women’s fashion items** �
 ---
 
 ## 📸 Screenshots
-
-*(Upload screenshots to the `screenshots/` folder in the repo and they will display here)*
 
 ## Signup Page
 
